@@ -172,6 +172,38 @@ I engineer production-grade systems — from 22-table PostgreSQL schemas powerin
 
 ---
 
+## 📄 Research & Publications
+
+<!-- IEEE Publication -->
+<table>
+<tr>
+<td width="80" align="center">
+<img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+</td>
+<td>
+
+### Shift-Aware Threshold Adaptation for Cross-Dataset Wearable Anomaly Detection
+
+**Nithish Kumar V & Nathiya R** · Dept. of Computer Applications, HITS Chennai
+
+> Proposed **SATA** — a lightweight unsupervised algorithm adapting anomaly detection thresholds under domain shift without retraining or labeled target data.
+> Reduced false positive rate from **46.69% → 1.02%** (45.67 pp reduction) on WISDM → UCI HAR cross-dataset evaluation.
+> O(n log n) complexity — deployable on resource-constrained wearable hardware.
+
+**Conference:** International Conference on Smart Communication and Sustainable Technologies (ICSCST 2026) · IEEE · June 18–20, 2026 · Kottayam, Kerala, India
+
+![LSTM](https://img.shields.io/badge/LSTM_Autoencoder-black?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-black?style=flat-square)
+![Domain Adaptation](https://img.shields.io/badge/Domain_Adaptation-black?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎓 Academic Background
 
 | **Degree** | Institution | Grade | Year |
@@ -189,6 +221,7 @@ I engineer production-grade systems — from 22-table PostgreSQL schemas powerin
 
 | 🏅 Recognition | 📋 Details |
 |----------------|-----------|
+| IEEE Publication — ICSCST 2026 | Paper: "Shift-Aware Threshold Adaptation for Cross-Dataset Wearable Anomaly Detection" · Reduced FPR 46.69% → 1.02% · June 18–20, 2026 · Kottayam, Kerala |
 | Institutional Deployment | FWMS adopted by institution — replaced fully manual subject allocation workflow |
 | Production-Grade AI System | Family Finance Tracker live on Vercel with 3 active users and real Gemini AI integration |
 | Academic Excellence | MCA CGPA 8.96/10 at Hindustan Institute of Technology & Science, Chennai |
@@ -200,12 +233,16 @@ I engineer production-grade systems — from 22-table PostgreSQL schemas powerin
 
 ## 📜 Certifications
 
-<div align="center">
+**NPTEL Certified**
 
-**NPTEL**<br/>
-<img src="https://img.shields.io/badge/Cloud_Computing_Fundamentals-NPTEL_2025-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing Fundamentals — NPTEL 2025"/>
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-NPTEL_2025-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms_%26_Analysis-NPTEL_2025-7C3AED?style=for-the-badge&logo=python&logoColor=white)
+![Soft Skills](https://img.shields.io/badge/Soft_Skills_%26_Personality-NPTEL_2026-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
 
-</div>
+**Events & Workshops**
+
+![Hackathon](https://img.shields.io/badge/Intellithon'25-24HR_National_Hackathon-0EA5E9?style=for-the-badge&logo=lightning&logoColor=white)
+![Workshop](https://img.shields.io/badge/Data_Analytics_Workshop-SQL_%26_Cloud-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -295,7 +332,8 @@ current_status:
 <a href="mailto:its.nithishnk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D946EF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://linkedin.com/in/nithishkumar246"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://github.com/Nithish-kumar-git"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="https://family-finance-tracker-pearl.vercel.app"><img src="https://img.shields.io/badge/Live_Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project"/></a>
+<a href="https://family-finance-tracker-pearl.vercel.app"><img src="https://img.shields.io/badge/Live_Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project"/></a>&nbsp;
+<a href="https://nithish-portfolio-seven.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nithish--portfolio--seven.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
