@@ -95,6 +95,7 @@ I engineer production-grade systems — from 22-table PostgreSQL schemas powerin
 - Designed complex **SQL analytics** using LEFT JOINs, COALESCE, GROUP BY, and subqueries to compute per-faculty TCH totals, deviation vs. 18-hour norm, and classify workload as Overloaded / Balanced / Underloaded
 - Engineered **department-level KPIs** — allocation success rate, overload percentage, and workload distribution curves — surfaced through automated Excel exports and Power BI dashboards
 - Built a complete **audit logging system** with timestamped role-action records and a Google OAuth 2.0 authentication layer supporting 4 user tiers
+- Shipped a **3-page Power BI dashboard** (Faculty Overview, Department Summary, Program Analysis) using DAX measures, custom KPI cards, and cross-page navigation — sourced from the Neon PostgreSQL workload data via CSV export
 
 <br/>
 
