@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6D28D9,7C3AED,4F46E5&amp;height=190&amp;section=header&amp;text=Nithish%20Kumar%20V&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Application%20Development%20%7C%20Python%20%26%20Backend%20Engineering&amp;descAlignY=60&amp;descSize=15" width="100%" alt="Nithish Kumar V — AI application development and Python backend engineering" />
+<img src="https://raw.githubusercontent.com/Nithish-kumar-git/Nithish-kumar-git/main/assets/profile-banner.svg" width="100%" alt="Nithish Kumar V — AI Application Development | Python &amp; Backend Engineering" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1100&amp;color=B794F4&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=52&amp;lines=AI+Application+Development;Python+%26+Backend+Engineering;Generative+AI+%7C+RAG+%7C+Machine+Learning;Building+useful+software+with+FastAPI" alt="AI application development · Python and backend engineering · Generative AI and RAG" />
 
